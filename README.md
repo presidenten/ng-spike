@@ -25,4 +25,5 @@ Prerequisites
 -------------
 
 Make sure you have grunt-cli, bower and karma installed globally
+
 	sudo npm install -g grunt-cli bower karma
