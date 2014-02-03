@@ -8,11 +8,16 @@ Usage
 -----
 
 Run
+
 	grunt server
+
 to get an autoupdating express server
 
+
 Run
+
 	grunt test
+
 to get autoupdating karma tests using jasmine
 
 
